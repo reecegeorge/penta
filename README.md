@@ -1,6 +1,5 @@
 PENTA: Adaptable Multi-Agent Dialogue Generator
 
-Description:
 PENTA is a dynamic dialogue generator employing five agents to collaboratively tackle presented problems. Rooted in adaptability, it seamlessly morphs to address various tasks. 
 
 Inspired by notable prompts like: 
