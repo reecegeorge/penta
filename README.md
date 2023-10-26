@@ -1,6 +1,6 @@
 # PENTA: Adaptable Multi-Agent Dialogue Generator
 
-![Project Logo](https://reecegeorge.com/wp-content/uploads/2023/09/penta4_small.jpg)
+![Project Logo](https://reecegeorge.com/wp-content/uploads/2023/08/robots3.jpg)
 
 ## Introduction
 
