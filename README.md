@@ -11,7 +11,6 @@ PENTA is a dynamic dialogue generator employing five agents to collaboratively t
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- ...
 
 ## Getting Started
 
@@ -32,7 +31,7 @@ I tried it with Bing, who say that they have gpt4 but it doesn't work the same, 
 
 Inspired by notable prompts like: 
 
-Synapse_CoR
-Six Thinking Hat System by ChainBrainAI
-QuickSilverOS
-and insights from DeepMind
+- Synapse_CoR
+- Six Thinking Hat System by ChainBrainAI
+- QuickSilverOS
+- and insights from DeepMind
