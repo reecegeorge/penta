@@ -63,3 +63,7 @@ Inspired by notable prompts like:
 - Six Thinking Hat System by ChainBrainAI
 - QuickSilverOS
 - and insights from DeepMind
+
+### License
+
+Creative Commons: CC0 1.0 Universal
